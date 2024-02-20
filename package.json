@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "@types/getenv": "^1.0.0",
-    "dotenv": "^8.0.0",
+    "dotenv": "^16.4.5",
     "getenv": "^1.0.0"
   },
   "devDependencies": {
